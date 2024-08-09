@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+h1
+{
+	color: red;
+}
+
+form
+{
+	background-image: url(D:\Users\Lenovo\eclipse-workspace\Login_Student\src\main\webapp\image);
+
+}
+table,th,tr,td
+{
+	border: 1px solid green;
+	border-collapse: collapse;
+}
